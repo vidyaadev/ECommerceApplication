@@ -1,5 +1,6 @@
 package testBase;
 
+import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.net.URL;
@@ -16,7 +17,6 @@ import org.openqa.selenium.Platform;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import java.io.File;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
@@ -34,7 +34,7 @@ public class BaseClass {
 
 	@BeforeClass(groups = {"sanity","regression","master","DataDriven"})
 	@Parameters({"os","browser"})
-	public void setUp(@Optional("chrome") String os,String br) throws IOException {
+	public void setUp( String os,String br) throws IOException {
 		
 		FileReader file = new FileReader("src/test/resources/config.properties");
 		p = new Properties();

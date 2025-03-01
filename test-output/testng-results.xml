@@ -1,50 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="7" passed="5" failed="2" skipped="0">
+<testng-results ignored="0" total="6" passed="4" failed="2" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-01T22:54:58 IST" name="Suite" finished-at="2025-03-01T22:56:02 IST" duration-ms="64117">
+  <suite started-at="2025-03-01T23:52:02 IST" name="Suite" finished-at="2025-03-01T23:52:56 IST" duration-ms="54313">
     <groups>
-      <group name="regression">
-        <method signature="TC001_AccountRegistrationTest.new_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@29a0cdb]" name="new_registration" class="testCases.TC001_AccountRegistrationTest"/>
-      </group> <!-- regression -->
       <group name="sanity">
-        <method signature="TC002_LoginWithCreds.login_with_valid_creds()[pri:0, instance:testCases.TC002_LoginWithCreds@4ed5eb72]" name="login_with_valid_creds" class="testCases.TC002_LoginWithCreds"/>
+        <method signature="TC002_LoginWithCreds.login_with_valid_creds()[pri:0, instance:testCases.TC002_LoginWithCreds@6eb2384f]" name="login_with_valid_creds" class="testCases.TC002_LoginWithCreds"/>
       </group> <!-- sanity -->
       <group name="master">
-        <method signature="TC001_AccountRegistrationTest.new_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@29a0cdb]" name="new_registration" class="testCases.TC001_AccountRegistrationTest"/>
-        <method signature="TC002_LoginWithCreds.login_with_valid_creds()[pri:0, instance:testCases.TC002_LoginWithCreds@4ed5eb72]" name="login_with_valid_creds" class="testCases.TC002_LoginWithCreds"/>
-        <method signature="TC003_LoginwithDataProvider.login_with_data_providers(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_LoginwithDataProvider@31dadd46]" name="login_with_data_providers" class="testCases.TC003_LoginwithDataProvider"/>
+        <method signature="TC002_LoginWithCreds.login_with_valid_creds()[pri:0, instance:testCases.TC002_LoginWithCreds@6eb2384f]" name="login_with_valid_creds" class="testCases.TC002_LoginWithCreds"/>
+        <method signature="TC003_LoginwithDataProvider.login_with_data_providers(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_LoginwithDataProvider@676cf48]" name="login_with_data_providers" class="testCases.TC003_LoginwithDataProvider"/>
       </group> <!-- master -->
     </groups>
-    <test started-at="2025-03-01T22:54:58 IST" name="Test" finished-at="2025-03-01T22:56:02 IST" duration-ms="64117">
-      <class name="testCases.TC001_AccountRegistrationTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_AccountRegistrationTest@29a0cdb]" started-at="2025-03-01T22:54:59 IST" name="setUp" finished-at="2025-03-01T22:55:13 IST" duration-ms="14156" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[windows]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="new_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@29a0cdb]" started-at="2025-03-01T22:55:13 IST" name="new_registration" finished-at="2025-03-01T22:55:18 IST" duration-ms="4795" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- new_registration -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_AccountRegistrationTest@29a0cdb]" started-at="2025-03-01T22:55:18 IST" name="tearDown" finished-at="2025-03-01T22:55:18 IST" duration-ms="312" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+    <test started-at="2025-03-01T23:52:02 IST" name="Test" finished-at="2025-03-01T23:52:56 IST" duration-ms="54313">
       <class name="testCases.TC003_LoginwithDataProvider">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_LoginwithDataProvider@31dadd46]" started-at="2025-03-01T22:55:18 IST" name="setUp" finished-at="2025-03-01T22:55:22 IST" duration-ms="3911" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_LoginwithDataProvider@676cf48]" started-at="2025-03-01T23:52:02 IST" name="setUp" finished-at="2025-03-01T23:52:08 IST" duration-ms="5753" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -60,7 +30,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="login_with_data_providers(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_LoginwithDataProvider@31dadd46]" started-at="2025-03-01T22:55:25 IST" name="login_with_data_providers" data-provider="LoginData" finished-at="2025-03-01T22:55:27 IST" duration-ms="2501" status="PASS">
+        <test-method signature="login_with_data_providers(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_LoginwithDataProvider@676cf48]" started-at="2025-03-01T23:52:10 IST" name="login_with_data_providers" data-provider="LoginData" finished-at="2025-03-01T23:52:15 IST" duration-ms="4643" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -81,7 +51,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login_with_data_providers -->
-        <test-method signature="login_with_data_providers(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_LoginwithDataProvider@31dadd46]" started-at="2025-03-01T22:55:27 IST" name="login_with_data_providers" data-provider="LoginData" finished-at="2025-03-01T22:55:29 IST" duration-ms="1953" status="PASS">
+        <test-method signature="login_with_data_providers(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_LoginwithDataProvider@676cf48]" started-at="2025-03-01T23:52:15 IST" name="login_with_data_providers" data-provider="LoginData" finished-at="2025-03-01T23:52:17 IST" duration-ms="2179" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -102,7 +72,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login_with_data_providers -->
-        <test-method signature="login_with_data_providers(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_LoginwithDataProvider@31dadd46]" started-at="2025-03-01T22:55:29 IST" name="login_with_data_providers" data-provider="LoginData" finished-at="2025-03-01T22:55:41 IST" duration-ms="11707" status="PASS">
+        <test-method signature="login_with_data_providers(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_LoginwithDataProvider@676cf48]" started-at="2025-03-01T23:52:17 IST" name="login_with_data_providers" data-provider="LoginData" finished-at="2025-03-01T23:52:29 IST" duration-ms="11684" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -123,7 +93,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login_with_data_providers -->
-        <test-method signature="login_with_data_providers(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_LoginwithDataProvider@31dadd46]" started-at="2025-03-01T22:55:41 IST" name="login_with_data_providers" data-provider="LoginData" finished-at="2025-03-01T22:55:42 IST" duration-ms="1438" status="FAIL">
+        <test-method signature="login_with_data_providers(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_LoginwithDataProvider@676cf48]" started-at="2025-03-01T23:52:29 IST" name="login_with_data_providers" data-provider="LoginData" finished-at="2025-03-01T23:52:30 IST" duration-ms="1495" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -184,7 +154,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login_with_data_providers -->
-        <test-method signature="login_with_data_providers(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_LoginwithDataProvider@31dadd46]" started-at="2025-03-01T22:55:42 IST" name="login_with_data_providers" data-provider="LoginData" finished-at="2025-03-01T22:55:53 IST" duration-ms="10140" status="FAIL">
+        <test-method signature="login_with_data_providers(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_LoginwithDataProvider@676cf48]" started-at="2025-03-01T23:52:30 IST" name="login_with_data_providers" data-provider="LoginData" finished-at="2025-03-01T23:52:41 IST" duration-ms="10207" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -243,13 +213,13 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login_with_data_providers -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC003_LoginwithDataProvider@31dadd46]" started-at="2025-03-01T22:55:53 IST" name="tearDown" finished-at="2025-03-01T22:55:53 IST" duration-ms="483" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC003_LoginwithDataProvider@676cf48]" started-at="2025-03-01T23:52:41 IST" name="tearDown" finished-at="2025-03-01T23:52:41 IST" duration-ms="439" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC003_LoginwithDataProvider -->
       <class name="testCases.TC002_LoginWithCreds">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_LoginWithCreds@4ed5eb72]" started-at="2025-03-01T22:55:53 IST" name="setUp" finished-at="2025-03-01T22:56:00 IST" duration-ms="7242" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_LoginWithCreds@6eb2384f]" started-at="2025-03-01T23:52:41 IST" name="setUp" finished-at="2025-03-01T23:52:52 IST" duration-ms="11271" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -265,11 +235,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="login_with_valid_creds()[pri:0, instance:testCases.TC002_LoginWithCreds@4ed5eb72]" started-at="2025-03-01T22:56:00 IST" name="login_with_valid_creds" finished-at="2025-03-01T22:56:02 IST" duration-ms="1544" status="PASS">
+        <test-method signature="login_with_valid_creds()[pri:0, instance:testCases.TC002_LoginWithCreds@6eb2384f]" started-at="2025-03-01T23:52:52 IST" name="login_with_valid_creds" finished-at="2025-03-01T23:52:55 IST" duration-ms="2922" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login_with_valid_creds -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_LoginWithCreds@4ed5eb72]" started-at="2025-03-01T22:56:02 IST" name="tearDown" finished-at="2025-03-01T22:56:02 IST" duration-ms="324" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_LoginWithCreds@6eb2384f]" started-at="2025-03-01T23:52:55 IST" name="tearDown" finished-at="2025-03-01T23:52:56 IST" duration-ms="701" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

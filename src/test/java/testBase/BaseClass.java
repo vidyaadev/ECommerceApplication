@@ -46,7 +46,7 @@ public class BaseClass {
 			DesiredCapabilities cap = new DesiredCapabilities();
 			  
 			if(os.equalsIgnoreCase("windows")) {
-				cap.setPlatform(Platform.WIN10);
+				cap.setPlatform(Platform.WINDOWS);
 			}
 			else if (os.equalsIgnoreCase("linux")) {
 				cap.setPlatform(Platform.LINUX);

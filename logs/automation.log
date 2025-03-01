@@ -1,0 +1,22 @@
+14:40:52.665 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on my account ***
+14:40:54.355 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer info ***
+14:40:59.325 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating customer info ***
+14:40:59.483 [main] INFO  testCases.TC001_AccountRegistrationTest - Test case passed
+22:09:01.587 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting the test case ****
+22:09:02.903 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on my account ***
+22:09:04.877 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer info ***
+22:09:07.175 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating customer info ***
+22:09:07.275 [main] INFO  testCases.TC001_AccountRegistrationTest - Test case passed
+22:09:42.231 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting the test case ****
+22:09:43.129 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on my account ***
+22:09:44.203 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer info ***
+22:09:47.675 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating customer info ***
+22:09:47.766 [main] INFO  testCases.TC001_AccountRegistrationTest - Test case passed
+23:31:11.571 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\USER\OneDrive\Desktop\java_ws\ECommerceApplication\testng.xml
+
+23:31:20.004 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting the test case ****
+23:31:20.854 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on my account ***
+23:31:21.883 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer info ***
+23:31:25.156 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating customer info ***
+23:31:25.343 [main] INFO  testCases.TC001_AccountRegistrationTest - Test case passed

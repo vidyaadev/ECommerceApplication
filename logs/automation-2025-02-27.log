@@ -1,0 +1,59 @@
+00:30:17.536 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer info ***
+00:30:20.068 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating customer info ***
+00:30:20.146 [main] INFO  testCases.TC001_AccountRegistrationTest - Test case passed
+00:30:24.709 [main] INFO  testCases.TC002_LoginWithCreds - **** Starting the test case ****
+00:33:04.401 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\USER\OneDrive\Desktop\java_ws\TutorialsNinja\grouping.xml
+
+00:33:11.930 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting the test case ****
+00:33:12.266 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on my account ***
+00:33:13.298 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer info ***
+00:33:16.622 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating customer info ***
+00:33:16.841 [main] INFO  testCases.TC001_AccountRegistrationTest - Test case passed
+00:33:23.036 [main] INFO  testCases.TC002_LoginWithCreds - **** Starting the test case ****
+00:34:18.773 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\USER\OneDrive\Desktop\java_ws\TutorialsNinja\grouping.xml
+
+00:34:30.228 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting the test case ****
+00:34:32.297 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on my account ***
+00:34:33.544 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer info ***
+00:34:38.174 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating customer info ***
+00:34:38.312 [main] INFO  testCases.TC001_AccountRegistrationTest - Test case passed
+00:34:46.204 [main] INFO  testCases.TC002_LoginWithCreds - **** Starting the test case ****
+00:34:59.035 [main] INFO  testCases.TC003_LoginwithDataProvider - **** Starting the test case ****
+00:35:03.843 [main] INFO  testCases.TC003_LoginwithDataProvider - **** Starting the test case ****
+00:35:06.945 [main] INFO  testCases.TC003_LoginwithDataProvider - **** Starting the test case ****
+00:35:19.828 [main] INFO  testCases.TC003_LoginwithDataProvider - **** Starting the test case ****
+00:35:23.158 [main] INFO  testCases.TC003_LoginwithDataProvider - **** Starting the test case ****
+00:53:28.491 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\USER\OneDrive\Desktop\java_ws\TutorialsNinja\grouping.xml
+
+00:53:36.980 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting the test case ****
+00:53:38.339 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on my account ***
+00:53:39.291 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer info ***
+00:53:42.311 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating customer info ***
+00:53:42.398 [main] INFO  testCases.TC001_AccountRegistrationTest - Test case passed
+00:53:48.028 [main] INFO  testCases.TC002_LoginWithCreds - **** Starting the test case ****
+00:54:00.549 [main] INFO  testCases.TC003_LoginwithDataProvider - **** Starting the test case ****
+00:54:03.549 [main] INFO  testCases.TC003_LoginwithDataProvider - **** Starting the test case ****
+00:54:06.267 [main] INFO  testCases.TC003_LoginwithDataProvider - **** Starting the test case ****
+00:54:18.947 [main] INFO  testCases.TC003_LoginwithDataProvider - **** Starting the test case ****
+00:58:54.287 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\USER\OneDrive\Desktop\java_ws\TutorialsNinja\grouping.xml
+
+00:59:02.723 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting the test case ****
+00:59:03.708 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on my account ***
+00:59:04.715 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer info ***
+00:59:07.688 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating customer info ***
+00:59:07.793 [main] INFO  testCases.TC001_AccountRegistrationTest - Test case passed
+00:59:13.160 [main] INFO  testCases.TC002_LoginWithCreds - **** Starting the test case ****
+00:59:29.065 [main] INFO  testCases.TC003_LoginwithDataProvider - **** Starting the test case ****
+00:59:32.528 [main] INFO  testCases.TC003_LoginwithDataProvider - **** Starting the test case ****
+00:59:35.921 [main] INFO  testCases.TC003_LoginwithDataProvider - **** Starting the test case ****
+00:59:49.710 [main] INFO  testCases.TC003_LoginwithDataProvider - **** Starting the test case ****
+01:01:46.003 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\USER\OneDrive\Desktop\java_ws\TutorialsNinja\grouping.xml
+
+01:01:59.706 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting the test case ****
+01:02:00.706 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on my account ***
+01:02:01.936 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer info ***
